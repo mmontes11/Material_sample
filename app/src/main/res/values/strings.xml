@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">Material Design Sample</string>
+=======
+    <string name="app_name">APM02 - Material Design</string>
+>>>>>>> df6acd06bb12e3b3982df67c35a10562b264eac5
     <string name="action_settings">Settings</string>
     <string name="username_editText">Username</string>
     <string name="password_editText">Password</string>
