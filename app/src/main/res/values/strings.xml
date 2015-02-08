@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APM02 - Material Design</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_editText">Username</string>
+    <string name="password_editText">Password</string>
+    <string name="button_logIn_text">Log In</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_add_to_do">Add</string>
+    <string name="add_button">Add</string>
+    <string name="error_name">No name was given</string>
+    <string name="added_ok">Added correctly</string>
+    <string name="name_new">Name</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_text">Title:</string>
+    <string name="date_text">Date:</string>
+    <string name="usernameMandatory">Username is mandatory</string>
+    <string name="passwordMandatory">Password is mandatory</string>
+
+</resources>
